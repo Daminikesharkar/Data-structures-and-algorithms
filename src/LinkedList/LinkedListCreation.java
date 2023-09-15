@@ -1,7 +1,7 @@
 package LinkedList;
 public class LinkedListCreation {
     //inner class to create Node structure
-    class Node{
+    static class Node{
         int data;
         Node next;
         public Node(int data) {
